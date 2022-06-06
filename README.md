@@ -5,8 +5,6 @@
 <div/>
 <br/>
   <img src="https://github.com/joaogabrielfragosojardim/WeatherReview/blob/main/assets/cold.png" alt="thumbnail" width="33%">
-  <img src="https://github.com/joaogabrielfragosojardim/WeatherReview/blob/main/assets/hot.png" alt="thumbnail" width="33%">
-  <img src="https://github.com/joaogabrielfragosojardim/WeatherReview/blob/main/assets/neutral.png" alt="thumbnail" width="33%">
 <br/>
 
 Aplicativo que mostra o clima de sua cidade
@@ -41,3 +39,7 @@ Agora rode o projeto
 yarn android
  ```
  Pronto! a aplicação está rodando
+  
+  ## APK
+  
+  https://github.com/joaogabrielfragosojardim/WeatherReview/tree/main/apk
