@@ -44,6 +44,6 @@ yarn android
   
   https://github.com/joaogabrielfragosojardim/WeatherReview/tree/main/apk
   
-   ## Tempo de desenvolvimento 🕗
+   ## 🕗 Tempo de desenvolvimento 
   
   Cerca de 12 horas
