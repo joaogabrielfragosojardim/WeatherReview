@@ -1,10 +1,12 @@
 # Weather Review
 
 <div display="flex">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/joaogabrielfragosojardim/challenge-covid-daily-cases">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/joaogabrielfragosojardim/WeatherReview">
 <div/>
 <br/>
-<img src="https://github.com/joaogabrielfragosojardim/challenge-covid-daily-cases/blob/main/public/painel.png" alt="thumbnail">
+  <img src="https://github.com/joaogabrielfragosojardim/WeatherReview/blob/main/assets/cold.png" alt="thumbnail" width="33%">
+  <img src="https://github.com/joaogabrielfragosojardim/WeatherReview/blob/main/assets/hot.png" alt="thumbnail" width="33%">
+  <img src="https://github.com/joaogabrielfragosojardim/WeatherReview/blob/main/assets/neutral.png" alt="thumbnail" width="33%">
 <br/>
 
 Aplicativo que mostra o clima de sua cidade
